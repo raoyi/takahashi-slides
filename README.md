@@ -31,8 +31,8 @@ fork from [kuitos/takahashi-slides](https://github.com/kuitos/takahashi-slides)
 
 prism has been updated to version 9000.0.1, also you can add more languages for code blocks, e.g.
 
-```
+<pre>
 ```python
 print("Hello World!")
 ```
-```
+</pre>
