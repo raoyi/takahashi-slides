@@ -21,7 +21,7 @@ fork from [kuitos/takahashi-slides](https://github.com/kuitos/takahashi-slides)
 1. a blank line means a new slide will be created.
 2. an english comma(`,`) means content will display gradually (the comma don't display on the slide).
 3. `~~strickout~~` will strickout the characters.
-4. `![](css/image.png)` add a image.
+4. `![](subdemo/image.png)` add a image.
 5. `**highlight**` highlight, red font.
 6. `*italic*` italic font.
 7. `[text](?foldername)` link to local subdirectory, display subdirectory/index.md content.
