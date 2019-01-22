@@ -28,3 +28,11 @@ fork from [kuitos/takahashi-slides](https://github.com/kuitos/takahashi-slides)
 8. `*` or `-` means list items.
 9. `num. text` list items with serial num.
 10. code and code block like the common markdown file.
+
+prism has been updated to version 9000.0.1, also you can add more languages for code blocks, e.g.
+
+```
+```python
+print("Hello World!")
+```
+```
