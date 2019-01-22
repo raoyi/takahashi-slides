@@ -37,7 +37,7 @@ code...
 ```
 </pre>
 
-*also you can add some more javascript files for any special languages' code blocks, e.g.*
+*also you can add some more javascript files for any special languages' code blocks, such as:*
 
 <pre>
 ```python
