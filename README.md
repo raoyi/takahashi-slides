@@ -29,7 +29,7 @@ fork from [kuitos/takahashi-slides](https://github.com/kuitos/takahashi-slides)
 9. `num. text` list items with serial num.
 10. code and code block like the common markdown file.
 
-*prism has been updated to version 9000.0.1, the default style is:*
+### prism has been updated to version 9000.0.1, the default style is:
 
 <pre>
 ```
@@ -37,7 +37,7 @@ code...
 ```
 </pre>
 
-*also you can add some more javascript files for any special languages' code blocks, such as:*
+### also you can add some more javascript files for any special languages' code blocks, e.g:
 
 <pre>
 ```python
