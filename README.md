@@ -2,7 +2,7 @@
 
 fork from [kuitos/takahashi-slides](https://github.com/kuitos/takahashi-slides)
 
-# [Takahashimethod](https://en.wikipedia.org/wiki/Takahashi_method)
+# [Takahashi Method](https://en.wikipedia.org/wiki/Takahashi_method)
 
 *support Chrome 45+ only*
 
