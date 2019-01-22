@@ -10,7 +10,7 @@ fork from [kuitos/takahashi-slides](https://github.com/kuitos/takahashi-slides)
 
 1. fork this repository.
 2. create a new path on the root, such as `subdemo`.
-3. write markdown document in the `css` folder and named index.md, the format is as follows.
+3. write markdown document in the `subdemo` folder and named index.md, the format is as follows.
 4. create a static server,such as `python -m http.server` or [http-server](https://github.com/indexzero/http-server).
 5. access the server address, like `localhost:8000/?subdemo`.
 6. if access the web root,e.g. localhost:8000, the `index.md` on the root will shown.
