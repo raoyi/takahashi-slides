@@ -1,6 +1,6 @@
 # takahashi-slides
 
-fork from [kuitos](https://github.com/kuitos/takahashi-slides)
+fork from [kuitos/takahashi-slides](https://github.com/kuitos/takahashi-slides)
 
 # [Takahashimethod](https://en.wikipedia.org/wiki/Takahashi_method)
 
@@ -8,11 +8,11 @@ fork from [kuitos](https://github.com/kuitos/takahashi-slides)
 
 ## How to use
 
-1. fork this repository
-2. create a new path on the root, such as `css` .
+1. fork this repository.
+2. create a new path on the root, such as `subdemo`.
 3. write markdown document in the `css` folder and named index.md, the format is as follows.
-4. create a static server,such as `python -m http.server` or [http-server](https://github.com/indexzero/http-server)
-5. access the server address, like `localhost:8000/?css`
+4. create a static server,such as `python -m http.server` or [http-server](https://github.com/indexzero/http-server).
+5. access the server address, like `localhost:8000/?subdemo`.
 6. if access the web root,e.g. localhost:8000, the `index.md` on the root will shown.
 7. then you can turn pages with `left` and `right` key, `PgUp` and `PgDn` key, or mouse click on the bottom side.
 
